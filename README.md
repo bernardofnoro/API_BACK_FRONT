@@ -1,6 +1,6 @@
-# API BACK_FRONT INTEGRATION.
+# RESTful API BACK_FRONT INTEGRATION.
 
-In this project i'm developing an API based on GAMES.
+In this project i'm developing an RESTful API based on GAMES.
 
 I'm creating  **five** different routes, each route receives a genre of games wich will be listed, listed by ID, edited, and deleted using the **CRUD**.
 
@@ -181,7 +181,7 @@ All we need is to add  the sub routes on our urls!
 
 You're all set to go and use this API with it's full potential!
 
-I hope you enjoy this API , had a lot of fun doing it!
+I hope you enjoy this  Restful API , had a lot of fun doing it!
 
 See ya soon!
 
