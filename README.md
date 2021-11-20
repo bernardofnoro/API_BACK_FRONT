@@ -179,7 +179,7 @@ All we need is to add  the sub routes on our urls!
 /delete/id
 ```
 
-You're all set to go and use this API with it's full potential!
+You're all set to go and use this API and it's full potential!
 
 I hope you enjoy this  Restful API , had a lot of fun doing it!
 
